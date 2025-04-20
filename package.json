@@ -1,0 +1,35 @@
+{
+  "name": "discord-canvas-easy-en",
+  "version": "1.0.0",
+  "description": "discord-canvas-easy from MadRage but in english !",
+  "main": "main.js",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "decompress-response": "^4.2.1",
+    "discord-api-types": "^0.33.5",
+    "discord.js": "^13.17.1",
+    "mimic-response": "^2.1.0",
+    "simple-get": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaby5873/discord-canvas-easy-en.git"
+  },
+  "keywords": [
+    "canvas",
+    "discordjs",
+    "v14",
+    "v13",
+    "bot"
+  ],
+  "author": "MadRage, translated by gabyisthere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaby5873/discord-canvas-easy-en/issues"
+  },
+  "homepage": "https://github.com/Gaby5873/discord-canvas-easy-en#readme"
+}
